@@ -122,4 +122,4 @@ KPI Analysis
 ## Questions & Answers
 This project includes a section addressing common questions and findings during the analysis.
 
-Notes Ensure your S3 bucket name and Snowflake configurations match those in the code. This project uses AWS and Snowflake for demonstrating a modern cloud data pipeline.
+**Notes** : Ensure your S3 bucket name and Snowflake configurations match those in the code. This project uses AWS and Snowflake for demonstrating a modern cloud data pipeline.
